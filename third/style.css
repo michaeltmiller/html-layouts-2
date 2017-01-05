@@ -1,0 +1,48 @@
+body{
+	margin:0;
+}
+header{
+	padding:15px;
+	height: 75px;
+	background-color: #333333;
+}
+.whitetext{
+	margin: 20px 20px;
+	font-size: 22px;
+	color: white;
+	display: inline-block;
+}
+.column1{
+	padding: 35px;
+	box-sizing: border-box;
+	width: 50%;
+	height: 95vh;
+	float: left;
+}
+.column2{
+	padding: 35px;
+	box-sizing: border-box;
+	width: 50%;
+	height: 95vh;
+	float: left;
+}
+.imagebox{
+	height: 225px;
+	width: 265px;
+	background-color: darkgrey;
+}
+h1{
+	font-size: 38px;
+	color: black;
+}
+p{
+	font-size: 12px;
+	color: black;
+}
+footer{
+	height: 75px;
+	background-color: #333333;
+	position: absolute;
+	bottom:0;
+	width: 100%;
+}

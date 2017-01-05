@@ -1,0 +1,84 @@
+body{
+	background-color: #D8D8D8;
+	margin:0;
+}
+.main {
+	background-color: #D8D8D8;
+	margin-bottom: 75px;
+}
+.whitetext{
+	position: relative;
+	top: -50%;
+	left:20%;
+	transform: translate(10px, 10px);
+	font-size: 32px;
+	color: white;
+}
+p{
+	font-size: 16px;
+}
+.topbox{
+	padding: 30px;
+	margin: 40px 65px;
+	height: 235px;
+	background-color: white;
+}
+.redbutton{
+	margin:10px 5px;
+	position: relative;
+	height: 50px;
+	width: 150px;
+	display: inline-block;
+	background-color: #D0021B;
+}
+.bluebutton{
+	margin:10px 5px;
+	position: relative;
+	height: 50px;
+	width: 150px;
+	display: inline-block;
+	background-color: #4A90E2;
+}
+.bottombox{
+	position: relative;
+	height: 450px;
+	margin:40px 65px;
+	background-color: white;
+	padding:30px;
+}
+.imagebox{
+	margin:auto;
+	height: 50%;
+	width:95%;
+	background-color: #4A4A4A;
+
+}
+.imgtext{
+	position: absolute;
+	top: 25%;
+	left:35%;
+	font-size: 30px;
+	color: white;
+}
+.bottomtext{
+	font-size: 16px;
+	margin: 30px 15px 15px 15px;
+}
+
+footer{
+	padding-left: 50px;
+	height: 75px;
+	background-color: #333333;
+}
+.Google{
+	margin:15px 70px 15px 15px;
+	font-size: 22px;
+	color: white;
+	float: right;
+}
+.Apple{
+	margin: 15px 30px 15px 15px;
+	font-size: 22px;
+	color: white;
+	float: right;
+}
